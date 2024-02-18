@@ -3,8 +3,8 @@ Curated code repository for training and evaluation of visual navigation framewo
 Paper Link : [Arxiv Paper link]
 
 <p float="left">
-  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/c4286a95-fe7a-4517-a852-0c6eb4a71c56" width="500" />
-  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/2cb3169a-839e-42e6-95af-81a98515e7fa" width="500" /> 
+  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/c4286a95-fe7a-4517-a852-0c6eb4a71c56" width="250" />
+  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/2cb3169a-839e-42e6-95af-81a98515e7fa" width="250" /> 
 </p>
 
 
