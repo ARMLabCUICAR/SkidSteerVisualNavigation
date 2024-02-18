@@ -48,4 +48,4 @@ All the models used for simulation and hardware deployment available as '.zip' f
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/12b81ab0-8fc3-42c9-bae9-b31f347fa77f" width="250" height="350" /> 
 </p>
 
-Hardware deployment done withing ROS framework.
+Hardware deployment done within the ROS framework.
