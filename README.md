@@ -1,25 +1,36 @@
-# Husky Robot DRL with CoppeliaSim Env and SB3 training framework
+# Characterizing the performance of a deep reinforcement learning framework for skid-steered visual navigation
+Curated code repository for training and evaluation of visual navigation framework for skid-steerd robots with deep reinforcement learning. 
+Paper Link : [Arxiv Paper link]
 
-## This is a personal repository for accounting progress
+>> Add overview image
 
-### Jan 6 2024 
-This repository entails code requried for a DRL training framework for a custom training environmet of a Clearpath Husky robot within the CoppeliaSim Simulator. The learning is facilitated by the StableBaselines3 DRL libraries.
-Apart from the codes in the repo, the following file is required :
+## Pre-requisites :
+The deep reinforcement learning (DRL) training requires following pre-requistes to be installed:
+1. CoppeliaSim robotics simulator - A multibody robot dynamics simulator used as a gym environment for DRL training. (https://www.coppeliarobotics.com/)
+2. StableBaselines3 reinforcement learning libraries for training with proximal policy opimization (PPO agent) (SB3 and associated libraries have be enlisted as a conda environment file in the repo as Husky_CS_SB3.yml . Users may choose to directly install this environment to install all the necessary python libraries)
+3. Konsole terminal emulator to spawn multiple environments simultaneously for parallelized training.
 
-CoppeliaSim learning environment : https://drive.google.com/file/d/15KDAMJYCn4OqUKDFlG63W_2zZ9ltId-w/view?usp=drive_link
+## File discriptions :
+### HuskyCP-gym
+Learning gym environment setup as a python package. Installing and sourcing this package will register the learning environment as a gym environment.
 
-Training logs of the first training : https://drive.google.com/file/d/1gLl0uQDoTES2jF7zHruuBrIsmuKdnraj/view?usp=drive_link
+### HuskyInfinityGym.ttt
+CoppeliaSim scene file containing Clearpath Husky Robot with a visually rederable path.
 
-Pictures of first training : 
-![Training Plots](https://drive.google.com/file/d/1fs-KEivo4-hTM2Ypgt9nURTox2GpOGZD/view?usp=drive_link)
+### exec_parallel.sh
+A shell script to spawn multiple instances of the same training environments for parallelized training. Users may choose to spawn as many environments as the total logical cores on their computers. This code has been tested on upto 32 parallel environments on academic compute cluster. Note : All environments are intialized on distinct ports which all for correct connection between the training algorithm and the environment.
 
-### Jan 7 2024
-Parallelization with multi-processing:
+### train_parallel.py
+Python file that starts the training and saves the agent as a '.zip' folder that can be evaluated as well as deployed on actual robot by installing the SB3 library.
 
-![Parallel GIF](https://github.com/ameyarsalvi/Husky_DRL_sb3/blob/main/parallel.gif)
+## Parallel training instance :
+(For visual appeal shown only 16 parallel instances by actual training can be scaled for as many logical cores on the computer)
+>> Add gif
 
-### Jan 17 2024
 
-Added best VS Agent so far : rl_model_5000000 
+## Simulation evaluation of the trained DRL agent 
+ >> Add gif
 
+## Deployment of the trained agent on actual robot
+>> Add gif
 
