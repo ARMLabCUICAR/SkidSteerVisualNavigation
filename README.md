@@ -41,4 +41,7 @@ https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/3abb0a
 
 ## Deployment of the trained agent on actual robot
 
+![2024-02-17 23-47-31](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/f43000c6-a4c4-477c-800f-1e446f3538c6) ![2024-02-17 23-46-40](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/12b81ab0-8fc3-42c9-bae9-b31f347fa77f)
+
+
 
