@@ -4,7 +4,6 @@ Paper Link : [Arxiv Paper link]
 
 <p float="left">
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/c4286a95-fe7a-4517-a852-0c6eb4a71c56" width="250" height="350" />
-  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/2cb3169a-839e-42e6-95af-81a98515e7fa" width="250" height="350" /> 
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/f43000c6-a4c4-477c-800f-1e446f3538c6" width="250" height="350" /> 
 </p>
 
@@ -44,7 +43,7 @@ https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/3abb0a
 
 
 <p float="left">
-  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/f43000c6-a4c4-477c-800f-1e446f3538c6" width="250" height="350" />
+  <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/2cb3169a-839e-42e6-95af-81a98515e7fa" width="250" height="350" />
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/12b81ab0-8fc3-42c9-bae9-b31f347fa77f" width="250" height="350" /> 
 </p>
 
