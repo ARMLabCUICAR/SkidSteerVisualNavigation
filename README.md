@@ -29,7 +29,7 @@ A shell script to spawn multiple instances of the same training environments for
 Python file that starts the training and saves the agent as a '.zip' folder that can be evaluated as well as deployed on actual robot by installing the SB3 library.
 
 ## Parallel training instance :
-(For visual appeal shown only 16 parallel instances by actual training can be scaled for as many logical cores on the computer)
+(For visual appeal shown only 6 parallel instances by actual training can be scaled for as many logical cores on the computer)
 
 https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/a3664bfe-cb15-4805-bf3c-aadc22e0c910
 
