@@ -7,8 +7,6 @@ Paper Link : [Arxiv Paper link]
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/b84a4ed1-c5dc-445d-92d0-661c2839920e" width="100" /> 
 </p>
 
-![HuskyVSOverview](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/a7831e5e-df6f-416b-8f5d-d3fe02486c00) ![2024-02-17 23-45-53](https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/b84a4ed1-c5dc-445d-92d0-661c2839920e)
-
 
 ## Pre-requisites :
 The deep reinforcement learning (DRL) training requires following pre-requistes to be installed:
