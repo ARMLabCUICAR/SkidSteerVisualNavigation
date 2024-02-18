@@ -25,12 +25,15 @@ Python file that starts the training and saves the agent as a '.zip' folder that
 
 ## Parallel training instance :
 (For visual appeal shown only 16 parallel instances by actual training can be scaled for as many logical cores on the computer)
->> Add gif
+
+https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/a3664bfe-cb15-4805-bf3c-aadc22e0c910
 
 
 ## Simulation evaluation of the trained DRL agent 
- >> Add gif
+
+https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/3abb0a2b-a269-46b9-b523-b87bcb417fe2
+
 
 ## Deployment of the trained agent on actual robot
->> Add gif
+
 
