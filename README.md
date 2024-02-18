@@ -39,7 +39,7 @@ https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/a3664b
 https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/3abb0a2b-a269-46b9-b523-b87bcb417fe2
 
 
-## Deployment of the trained agent on actual robot
+## Deployment of the trained agent on Clearpath Husky
 
 
 <p float="left">
