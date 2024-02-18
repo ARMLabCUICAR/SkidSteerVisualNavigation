@@ -41,10 +41,11 @@ https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/3abb0a
 
 ## Deployment of the trained agent on Clearpath Husky
 
+All the models used for simulation and hardware deployment available as '.zip' files which can be loaded using the SB3 library. Model(s) : https://drive.google.com/drive/folders/1JDoPeW4JtmWErJlwBNGFWtTiaO9_-K9o?usp=drive_link
 
 <p float="left">
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/2cb3169a-839e-42e6-95af-81a98515e7fa" width="250" height="350" />
   <img src="https://github.com/ARMLabCUICAR/SkidSteerVisualNavigation/assets/54649022/12b81ab0-8fc3-42c9-bae9-b31f347fa77f" width="250" height="350" /> 
 </p>
 
-
+Hardware deployment done withing ROS framework.
